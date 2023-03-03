@@ -281,14 +281,14 @@ a:hover {
 }
 
 
-@media screen and (max-width: 920px){
+@media screen and (max-width: 1070px){
     .container__vector img{
         width: 500px;
     }
 }
 
 
-@media screen and (max-width: 760px){
+@media screen and (max-width: 1070px){
 
     .container__nav{
         display: flex;
@@ -375,12 +375,6 @@ footer{
     text-align: center;
     padding: 0px 40px;
 }
-
-
-
-
-
-
 
 
 
