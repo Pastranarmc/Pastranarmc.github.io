@@ -36,6 +36,9 @@ section
     font-size: 18px;
     color: white;
   }
+  .controls1{
+    resize: none;
+  } 
   
   .form-register p {
     height: 40px;
