@@ -55,7 +55,10 @@ body{
     margin: 20px;
     text-align: center;
     transition: all 0.25s;
+    border-style: solid;
+    color: #f02020;
 }
+
 
 .container .card:hover{
     transform: translateY(-15px);
